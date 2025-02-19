@@ -1,3 +1,6 @@
+#Assisted by the tutorial firstflutter project and done by dipanshu aggarwal
+#I modified by chanding the image.asset to iamge.network() to solve the image issue and looks successful to make the first flutter project
+
 # firstflutterproject
 
 A new Flutter project.
